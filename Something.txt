@@ -1,11 +1,11 @@
-there is some text =))
+there is some text =));
 
-else
+else;
 
-something else
+something else;
 
-Hello
+Hello;
 
-Welcome
+Welcome;
 
-Продолжаем работу
+Продолжаем работу;
